@@ -1,4 +1,4 @@
-## Diabetes Prediction Classifier Analysis
+## Diabetes Predictor Classifier Analysis
 This repository contains the analysis of a dataset aimed at predicting diabetes status using various classification models. The dataset, [diabetes_5050.csv](https://github.com/racxxhel/Diabetes-Predictor-Classifier-Analysis/blob/main/diabetes_5050.csv), consists of survey responses collected in the US in 2015. 
 
 **Overview of the Analysis**
