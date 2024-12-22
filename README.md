@@ -18,3 +18,5 @@ Logistic Regression emerged as the best performing model overall, with the highe
 Decision Tree showed lower recall, potentially due to a high false-negative rate.
 Naive Bayes had a high AUC but relatively low accuracy, making it unsuitable when precision is a key concern.
 KNN showed the lowest accuracy, possibly due to its sensitivity to outliers and high-dimensional data.
+
+Full report can be found [here](https://github.com/racxxhel/Diabetes-Predictor-Classifier-Analysis/blob/main/Diabetes%20report.pdf) and full R code can be found [here](https://github.com/racxxhel/Diabetes-Predictor-Classifier-Analysis/blob/main/Diabetes_prediction.R)
